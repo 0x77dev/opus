@@ -4,7 +4,7 @@ local Util   = require('opus.util')
 local fs    = _G.fs
 local shell = _ENV.shell
 
-local URL = 'https://raw.githubusercontent.com/kepler155c/opus/%s/.opus_version'
+local URL = 'https://raw.githubusercontent.com/0x77dev/opus/%s/.opus_version'
 
 if fs.exists('.opus_version') then
 	local f = fs.open('.opus_version', 'r')

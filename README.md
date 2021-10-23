@@ -16,5 +16,5 @@
 
 ## Install
 ```
-pastebin run UzGHLbNC
+wget run https://raw.githubusercontent.com/0x77dev/opus-installer/master/install.lua
 ```

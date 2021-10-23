@@ -28,7 +28,7 @@ LDDestroier: Art design + custom apps
 Lemmmy:      Application improvements
 
 %sContribute at:%s
-https://github.com/kepler155c/opus]]
+https://github.com/0x77dev/opus]]
 
 local page = UI.Page {
 	wizard = UI.Wizard {
